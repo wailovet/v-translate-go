@@ -1,0 +1,14 @@
+{
+  "port": "20080",
+  "host": "0.0.0.0",
+  "cross_domain": "*",
+  "post_max_memory": 1024000,
+  "db": {
+    "host": "cdb-801amp9l.gz.tencentcdb.com",
+    "port": "10011",
+    "user": "root",
+    "password": "as19940108",
+    "name": "oxweb",
+    "max_open_conn": 500
+  }
+}
