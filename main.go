@@ -4,7 +4,7 @@ import (
 	"flag"
 	"github.com/wailovet/osmanthuswine"
 	"github.com/wailovet/osmanthuswine/src/core"
-	"github.com/wailovet/v-translate-go/app/translate"
+	"github.com/wailovet/v-translate-go/translate"
 )
 
 func main() {
